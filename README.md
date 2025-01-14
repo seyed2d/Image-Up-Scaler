@@ -33,4 +33,4 @@ Once downloaded, place the file in the root of the project directory.
 
 | Input Image (Low Quality) | Output Image (Enhanced) |
 |---------------------------|--------------------------|
-| ![Before](Image.jpg) | ![After](path/to/output_image.png) |
+| ![Before](Image.jpg) | ![After](output.png) |
