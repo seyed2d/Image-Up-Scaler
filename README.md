@@ -26,11 +26,3 @@ Before you start, ensure you have the following installed:
 
 Download the model weights (`RealESRGAN_x4plus.pth`) from the [official repository](https://github.com/xinntao/Real-ESRGAN).  
 Once downloaded, place the file in the root of the project directory.
-
-## 💡 Example Results
-
-### Input vs Output:
-
-| Input Image (Low Quality) | Output Image (Enhanced) |
-|---------------------------|--------------------------|
-| ![Before](Image.jpg) | ![After](output.png) |
